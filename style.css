@@ -1,0 +1,23 @@
+/* -=- Google fonts -=- */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700;900&display=swap');
+
+.font-bebas{
+	font-family: 'Bebas Neue', sans-serif;
+}
+.font-roboto{
+	font-family: 'Roboto', sans-serif;
+}
+button:hover{
+	color: slategrey;
+}
+footer a{
+	transition: .2s;
+}
+footer span{
+	cursor: pointer;
+	transition: .2s;
+}
+footer a:hover,
+footer span:hover{
+	color: #85A019;
+}
